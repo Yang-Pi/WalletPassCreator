@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@walletpass/pass-js": "^6.9.1",
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.0"
+  }
+}
